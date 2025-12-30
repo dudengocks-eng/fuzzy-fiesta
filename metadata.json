@@ -1,0 +1,13 @@
+{
+  "name": "오케팅 AI",
+  "short_name": "오케팅",
+  "description": "제조업 특화 AI 자동 마케팅 솔루션",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
